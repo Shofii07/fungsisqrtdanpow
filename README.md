@@ -1,2 +1,0 @@
-# fungsisqrtdanpow
-kode progam C++
